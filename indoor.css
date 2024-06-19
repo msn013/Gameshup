@@ -1,0 +1,176 @@
+body{
+    /* font-family: 'Poppins', sans-serif; */
+    font-family: 'Arial', sans-serif;
+
+   
+}
+*{
+    margin:0px;
+    padding:0px;
+}
+
+.Main2{
+    background-image: url("img/back2.jpg");
+    background-image: flex;
+    height: 100%;
+    width: 100%;
+}
+
+.header1{
+    text-align: center;
+     color: rgb(234, 238, 9);
+    
+}
+.Chess{
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.Carrom{
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.Darts{
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.Cardgame{
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.Puzzle{
+    margin-top:20px;
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.Pictionary{
+    margin-top:20px;
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.SimonSays{
+    margin-top:20px;
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.Musicalchairs{
+    margin-top:20px;
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(175, 8, 8);
+}
+.Chess:hover{
+    background-color: black;
+    color: aqua;
+}
+.Musicalchairs:hover{
+    background-color: black;
+    color: aqua;
+}
+.SimonSays:hover{
+    background-color: black;
+    color: aqua;
+}
+.Pictionary:hover{
+    background-color: black;
+    color: aqua;
+}
+.Puzzle:hover{
+    background-color: black;
+    color: aqua;
+}
+.Cardgame:hover{
+    background-color: black;
+    color: aqua;
+}
+.Darts:hover{
+    background-color: black;
+    color: aqua;
+}
+.Carrom:hover{
+    background-color: black;
+    color: aqua;
+}
+.link{
+   margin-left: 35%;
+    text-decoration: none;
+     
+     background-color: rgb(243, 6, 6);
+     color: rgb(43, 241, 3);
+     border-radius: 6px;
+    
+}
+.link:hover{
+      background-color: rgb(242, 243, 242);
+      color: rgb(24, 22, 22);
+     
+ }
+ .navbar{
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+    column-gap: 87%;
+    
+   
+    
+ }
+ .reff{
+    text-decoration: none;
+ }
+
+ .ref1{
+    background-color: rgb(7, 241, 241);
+    color: rgb(2, 245, 22);
+    border-radius: 6px;
+    padding: 6px;
+    
+ }
+ .ref1:hover{
+    background-color: rgb(223, 217, 217);
+    color: black;
+ }

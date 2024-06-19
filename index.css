@@ -1,0 +1,171 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.Main1{
+    background-image: url("img/OUT.jpg");
+    background-image: flex;
+    height: 100%;
+    width: 100%;
+}
+.header1{
+    text-align: center;
+     color: rgb(238, 6, 6);
+    
+}
+.cricket1{
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.football{
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.Kabaddi{
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.Basketball{
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.kho-kho{
+   
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.vollyball{
+    margin-top:20px;
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.hocky{
+    margin-top:20px;
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.badminton{
+    margin-top:20px;
+    justify-content: space-between;
+    border-width: 3px;
+    border-color: chocolate;
+    border-style: solid;
+    border-radius: 10px;
+    display: inline-block;
+    width: 300px;
+   color:rgb(194, 32, 10);
+}
+.badminton:hover{
+    background-color: black;
+    color: aqua;
+}
+.cricket1:hover{
+    background-color: black;
+    color: aqua;
+}
+.Kabaddi:hover{
+    background-color: black;
+    color: aqua;
+}
+.football:hover{
+    background-color: black;
+    color: aqua;
+}
+.Basketball:hover{
+    background-color: black;
+    color: aqua;
+}
+.kho-kho:hover{
+    background-color: black;
+    color: aqua;
+}
+.vollyball:hover{
+    background-color: black;
+    color: aqua;
+}
+.hocky:hover{
+    background-color: black;
+    color: aqua;
+}
+.link{
+   margin-left: 35%;
+    text-decoration: none;
+     
+     background-color: rgb(243, 6, 6);
+     color: rgb(43, 241, 3);
+     border-radius: 6px;
+    
+}
+.link:hover{
+      background-color: rgb(242, 243, 242);
+      color: rgb(24, 22, 22);
+     
+ }
+ .navbar{
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 30px;
+    column-gap: 88%;
+    
+   
+    
+ }
+ .reff{
+    text-decoration: none;
+ }
+
+ .ref1{
+    background-color: rgb(24, 162, 204);
+    color: rgb(16, 230, 62);
+    border-radius: 6px;
+    padding: 6px;
+    
+ }
+ .ref1:hover{
+    background-color: rgb(223, 217, 217);
+    color: black;
+ }
